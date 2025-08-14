@@ -1,3 +1,7 @@
+#Scripts with confidential data
+extraction_evaluation_llm.ipynb
+extraction_evaluation.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
